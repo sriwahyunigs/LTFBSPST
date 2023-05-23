@@ -85,42 +85,7 @@
   
   
   "more_apps": [
-    {
-      "id": 6,
-      "title": "Rog Wallpaper HD Phone",
-      "image": "https://play-lh.googleusercontent.com/YFRsuvf4Sp6EM6pTwmGLkcwjSKlc8S_aSry9b34-bbt-NibeqSOmwOWSeAkogE455OPP=w480-h960",
-      "url": "https://play.google.com/store/apps/details?id=oku.lemonokuof.rogwallpaperhdiphone"
-    },
-    {
-      "id": 5,
-      "title": "Pacific Rim Wallpaper HD",
-      "image": "https://play-lh.googleusercontent.com/8H6pnJ0km4WSTbtzzQMx86wt3cG942Z78oJmN2TV89QfzmwpzQxzfBmFIJW01E2a5UI=w480-h960",
-      "url": "https://play.google.com/store/apps/details?id=oku.lemonokuof.pacificrimwallpaperhd"
-    },
-    {
-      "id": 4,
-      "title": "Turning Red - Panda Wallpaper",
-      "image": "https://play-lh.googleusercontent.com/ASLhokFccOV_OH93PoxvzWTuQG6HiXIhCh52ann9Qj5u0Rmr5AJuSpiUgkPUnbBslXs=w480-h960",
-      "url": "https://play.google.com/store/apps/details?id=oku.lemonokuof.turningredpandawallpaperhd"
-    },
-    {
-      "id": 3,
-      "title": "Hanako Kun Wallpaper HD",
-      "image": "https://play-lh.googleusercontent.com/MVyuE6s3U4cB9YzDQUpUDUlH9190ujllPNWkjJ3NTALPX0IRJonrq1PZSscsLx1aAvA=w480-h960",
-      "url": "https://play.google.com/store/apps/details?id=oku.lemonokuof.hanakokunwallpaperhdanime"
-    },
-    {
-      "id": 2,
-      "title": "Jisoo Blackpink Wallpaper HD",
-      "image": "https://play-lh.googleusercontent.com/ePJ1Qhru5NPtOi-nln5BPY46iz5MTGuiHx-V6PxRDUZNggI-wH9zfsTKtTYr1LlKCN8=w480-h960",
-      "url": "https://play.google.com/store/apps/details?id=oku.lemonokuof.jisooblackpinkwallpaperhdblink"
-    },
-    {
-      "id": 1,
-      "title": "Roman Reigns Wallpaper HD",
-      "image": "https://play-lh.googleusercontent.com/y9f07kxgqaNDnce7sYpoCmQkJgJluUkOSTQ6_GhZ5CKG75rSboN8Zb0qikYZhC6LvwNT=w480-h960",
-      "url": "https://play.google.com/store/apps/details?id=oku.lemonokuof.romanreignswallpaperhd"
-    }
+    
   ],
   
   
@@ -130,102 +95,115 @@
       "name": "Wilds & Planet",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
+    {
       "id": 2,
-      "name": "Sports",
+      "name": "Cooking",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
+    {
       "id": 3,
-      "name": "Spain",
+      "name": "Cartoons",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
+
+
+    {
       "id": 4,
-      "name": "Premier Leaguage",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
-    },
-	{
-      "id": 5,
       "name": "News",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
+    {
+      "id": 5,
+      "name": "Health",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
+    },
+    {
       "id": 6,
+      "name": "Knowledge",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
+    },
+
+
+    {
+      "id": 7,
+      "name": "Event",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
+    },
+    {
+      "id": 8,
+      "name": "Sports",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
+    },
+    {
+      "id": 9,
       "name": "Muslim",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 7,
+
+
+    {
+      "id": 10,
       "name": "Music",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 8,
+    {
+      "id": 11,
       "name": "Movies",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 9,
+    {
+      "id": 12,
+      "name": "Entertainment",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
+    },
+
+
+    {
+      "id": 13,
+      "name": "Spain",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
+    },
+    {
+      "id": 14,
+      "name": "Australia",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
+    },
+    {
+      "id": 15,
+      "name": "Cannal+ Myanmar",
+      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
+    },
+
+
+    {
+      "id": 16,
       "name": "Malaysia",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
     {
-      "id": 10,
+      "id": 17,
       "name": "Local Indonesia",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 11,
-      "name": "Knowledge",
+    {
+      "id": 18,
+      "name": "Premier Leaguage",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 12,
-      "name": "Health",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
-    },
-	{
-      "id": 13,
+
+
+    {
+      "id": 19,
       "name": "Fight Sport",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     },
-	{
-      "id": 14,
-      "name": "Event",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
-    },
-	{
-      "id": 15,
-      "name": "Entertainment",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
-    },
-	{
-      "id": 16,
-      "name": "Cooking",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
-    },
-	{
-      "id": 17,
-      "name": "Cartoons",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
-    },
-	{
-      "id": 18,
-      "name": "Cannal+ Myanmar",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
-    },
-	{
-      "id": 19,
-      "name": "Australia",
-      "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
-    },
-	{
+    {
       "id": 20,
       "name": "Bein Sport",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/tv_default_backup.png"
     }
 
+    
   ],
   
   
