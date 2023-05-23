@@ -59,14 +59,14 @@
 	  
       "interstitial_ad_interval": 3,
 	  
-      "native_ad_index_list": 7,
+      "native_ad_index_list": 5,
       "native_ad_index_grid2": 6,
       "native_ad_index_grid3": 12,
-      "native_ad_interval_list": 7,
+      "native_ad_interval_list": 5,
       "native_ad_interval_grid2": 7,
       "native_ad_interval_grid3": 13,
 	  
-      "native_ad_style": "large",
+      "native_ad_style": "medium",
       "native_ad_channel_details_position": "bottom",
 	  
       "show_banner_ad_home": false,
