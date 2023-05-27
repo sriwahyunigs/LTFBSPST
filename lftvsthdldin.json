@@ -22,8 +22,8 @@
     {
       "ad_status": 1,
 	  
-      "main_ad": "admob",
-      "backup_ad": "applovin_discovery",
+      "main_ad": "applovin_discovery",
+      "backup_ad": "none",
 	  
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
@@ -218,7 +218,7 @@
     "category": "Sports",
     "user_agent": "",
     "streaming_url": "https://dbdspnsi7bxk.cloudfront.net/out/v1/543996f2ca9149a5a984db778af87c7f/index.m3u8"
-  }
+  },
   {
     "id": 2035,
     "title": "LIVE SPORTS 35 HD",
