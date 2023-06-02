@@ -8414,18 +8414,18 @@
       "id": 2,
       "title": "HIJRAH TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/HIJRAH_TV.png",
-      "description": "Mozilla/5.0 (X11; Linux x86_64)",
+      "description": "",
       "category": "Local Indonesia",
-      "user_agent": "",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch8.m3u8"
     },
     {
       "id": 1,
       "title": "SURAU TV FIX",
       "image": "https://raw.githubusercontent.com/misnatun/channels/main/SURAU_TV.png",
-      "description": "Mozilla/5.0 (X11; Linux x86_64)",
+      "description": "",
       "category": "Local Indonesia",
-      "user_agent": "",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64)",
       "streaming_url": "https://h1.intechmedia.net/intech/ch3.m3u8"
     },
     {
