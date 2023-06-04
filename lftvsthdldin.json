@@ -22,13 +22,13 @@
     {
       "ad_status": 1,
 	  
-      "main_ad": "applovin_discovery",
-      "backup_ad": "none",
+      "main_ad": "admob",
+      "backup_ad": "applovin_discovery",
 	  
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner_unit_id": "ca-app-pub-4264468460916165/1634535661",
+      "admob_interstitial_unit_id": "ca-app-pub-4264468460916165/5051036497",
+      "admob_native_unit_id": "ca-app-pub-4264468460916165/3474230941",
+      "admob_app_open_unit_id": "ca-app-pub-4264468460916165/7221904260",
 	  
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
