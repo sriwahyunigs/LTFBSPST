@@ -96,42 +96,6 @@
 
 
   "more_apps": [
-    {
-      "id": 6,
-      "title": "Rog Wallpaper HD Phone",
-      "image": "https://play-lh.googleusercontent.com/YFRsuvf4Sp6EM6pTwmGLkcwjSKlc8S_aSry9b34-bbt-NibeqSOmwOWSeAkogE455OPP=w480-h960",
-      "url": "https://play.google.com/store/apps/details?id=oku.lemonokuof.rogwallpaperhdiphone"
-    },
-    {
-      "id": 5,
-      "title": "Pacific Rim Wallpaper HD",
-      "image": "https://play-lh.googleusercontent.com/8H6pnJ0km4WSTbtzzQMx86wt3cG942Z78oJmN2TV89QfzmwpzQxzfBmFIJW01E2a5UI=w480-h960",
-      "url": "https://play.google.com/store/apps/details?id=oku.lemonokuof.pacificrimwallpaperhd"
-    },
-    {
-      "id": 4,
-      "title": "Turning Red - Panda Wallpaper",
-      "image": "https://play-lh.googleusercontent.com/ASLhokFccOV_OH93PoxvzWTuQG6HiXIhCh52ann9Qj5u0Rmr5AJuSpiUgkPUnbBslXs=w480-h960",
-      "url": "https://play.google.com/store/apps/details?id=oku.lemonokuof.turningredpandawallpaperhd"
-    },
-    {
-      "id": 3,
-      "title": "Hanako Kun Wallpaper HD",
-      "image": "https://play-lh.googleusercontent.com/MVyuE6s3U4cB9YzDQUpUDUlH9190ujllPNWkjJ3NTALPX0IRJonrq1PZSscsLx1aAvA=w480-h960",
-      "url": "https://play.google.com/store/apps/details?id=oku.lemonokuof.hanakokunwallpaperhdanime"
-    },
-    {
-      "id": 2,
-      "title": "Jisoo Blackpink Wallpaper HD",
-      "image": "https://play-lh.googleusercontent.com/ePJ1Qhru5NPtOi-nln5BPY46iz5MTGuiHx-V6PxRDUZNggI-wH9zfsTKtTYr1LlKCN8=w480-h960",
-      "url": "https://play.google.com/store/apps/details?id=oku.lemonokuof.jisooblackpinkwallpaperhdblink"
-    },
-    {
-      "id": 1,
-      "title": "Roman Reigns Wallpaper HD",
-      "image": "https://play-lh.googleusercontent.com/y9f07kxgqaNDnce7sYpoCmQkJgJluUkOSTQ6_GhZ5CKG75rSboN8Zb0qikYZhC6LvwNT=w480-h960",
-      "url": "https://play.google.com/store/apps/details?id=oku.lemonokuof.romanreignswallpaperhd"
-    }
   ],
   
   
@@ -274,7 +238,7 @@
       "category": "Local Indonesia",
       "user_agent": "",
       "streaming_url": "http://kusnadipepenk.github.io/campeign/tvone.m3u8"
-    },
+    }
     {
       "id": 2,
       "title": "METRO TV FIX",
