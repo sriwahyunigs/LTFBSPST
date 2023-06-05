@@ -23,7 +23,7 @@
       "ad_status": 1,
 	  
       "main_ad": "admob",
-      "backup_ad": "applovin_discovery",
+      "backup_ad": "fan",
 	  
       "admob_banner_unit_id": "ca-app-pub-4264468460916165/1634535661",
       "admob_interstitial_unit_id": "ca-app-pub-4264468460916165/5051036497",
@@ -35,9 +35,9 @@
       "ad_manager_native_unit_id": "/6499/example/native",
       "ad_manager_app_open_unit_id": "/6499/example/app-open",
 	  
-      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#905900360716064_905901557382611",
-      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#905900360716064_905901594049274",
-      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#905900360716064_905901660715934",
+      "fan_banner_unit_id": "243226871644610_243228054977825",
+      "fan_interstitial_unit_id": "243226871644610_243228124977818",
+      "fan_native_unit_id": "243226871644610_243228201644477",
 	  
       "startapp_app_id": "0",
 	  
