@@ -28,8 +28,8 @@
     {
       "ad_status": 1,
 
-      "main_ad": "fan",
-      "backup_ad": "applovin_max",
+      "main_ad": "applovin_max",
+      "backup_ad": "fan",
 
       "admob_banner_unit_id": "ca-app-pub-4264468460916165/9141348379",
       "admob_interstitial_unit_id": "ca-app-pub-4264468460916165/6515185039",
